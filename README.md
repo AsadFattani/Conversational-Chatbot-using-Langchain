@@ -34,7 +34,7 @@ LICENSE
 1. Clone the repository:
 
 ```bash
-
+https://github.com/AsadFattani/Conversational-Chatbot-using-Langchain.git
 ```
 
 2. Create and activate a virtual environment.
@@ -83,4 +83,4 @@ Contributions are welcome. Feel free to fork the repo and open a pull request.
 
 ## License
 
-
+No liscence issued
